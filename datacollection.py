@@ -10,7 +10,7 @@ from datetime import datetime
 # ======================
 # Configuration
 # ======================
-SESSION_DURATION = 60          # seconds
+SESSION_DURATION = 120          # seconds
 FPS = 30
 POINT_RADIUS = 8
 POINT_SPEED = 600              # pixels/sec
